@@ -128,7 +128,7 @@ class _PlayerWidgetState extends State<PlayerWidget> {
                                     audio: Audio.network(
                                       'https://filesamples.com/samples/audio/mp3/sample3.mp3',
                                       metas: Metas(
-                                        id: 'sample3.mp3-c8a3bul0',
+                                        id: 'sample3.mp3-4o5k2cu7',
                                         title: 'Ths song of nature ',
                                       ),
                                     ),
